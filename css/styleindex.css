@@ -1,0 +1,73 @@
+body{ 
+    background-color: beige;
+} 
+.titulo{ 
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(20, 216, 20);
+    float: left;
+    border: 1px;
+} 
+.subtitulo{
+    font-family: 'Lucida Sans';
+    font-size: 15px;
+    font-style: oblique;
+    color: rgb(20, 216, 20);
+    float: right;
+ } 
+.icone{
+    float: left;
+ } 
+ .header{ 
+    border:solid rgb(121, 16, 219);
+    height: 40px;
+    width: auto;
+    background-color: rgb(121, 16, 219);
+    padding: 2px;
+    border-radius: 2px;
+ } 
+ .links{ 
+    text-decoration: none;
+    font-family: 'Lucida Sans';
+    color: rgb(235, 215, 191);
+    border:rgb(121, 16, 219) solid;
+    border-left: 1px rgb(235, 215, 191);
+    border-right: 1px rgb(235, 215, 191);
+    width: max-content;
+    height: fit-content;
+    background-color: rgb(121, 16, 219);
+    font-size: 12px;
+    padding: 1px 10px;
+    float: left;
+ } 
+ figure{
+    width: 270px;
+    height: 256p;;
+    float: right;
+  } 
+  footer{ 
+      display: block;
+      margin-bottom: 0;
+      background-color: rgb(156, 101, 18);
+  }
+  h3{ 
+   text-decoration: none;
+   font-family: 'Lucida Sans';
+   color: rgb(235, 215, 191);
+   font-size: 12px;
+   float: none;
+   text-align: justify;
+   padding-left: 3px;
+} 
+h3 a{
+   text-decoration: none;
+   font-family: 'Lucida Sans';
+   color: rgb(235, 215, 191);
+   font-size: 12px;
+   float: none;
+} 
+rodape{
+   margin
+ }
